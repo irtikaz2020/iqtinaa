@@ -1,0 +1,14 @@
+{
+ "version": 1,
+ "stores": [
+  { "id": "iqtina", "name": "اقتناء", "desc": "المتجر الأساسي، وتحته متاجرنا.", "parent": "", "kind": "store", "owner": "own", "verified": true, "status": "open", "emoji": "◈", "color": "#b8893b", "order": 0 },
+  { "id": "golden-gardian", "name": "Golden Gardian", "desc": "البذور والحبوب ومستلزمات الزراعة", "parent": "iqtina", "kind": "store", "owner": "own", "verified": true, "status": "soon", "emoji": "🌾", "color": "#b8893b", "order": 1 },
+  { "id": "green-gardian", "name": "Green Gardian", "desc": "الثمار الطازجة من فاكهة وخضروات", "parent": "iqtina", "kind": "store", "owner": "own", "verified": true, "status": "soon", "emoji": "🥬", "color": "#2f7d4a", "order": 2 },
+  { "id": "beauty-boutique", "name": "Beauty Boutique", "desc": "مستحضرات التجميل والعناية، وتركيب العطور", "parent": "iqtina", "kind": "store", "owner": "own", "verified": true, "status": "soon", "emoji": "💄", "color": "#a8446f", "order": 3 },
+  { "id": "clothes-castle", "name": "Clothes Castle", "desc": "الملابس ومستلزماتها", "parent": "iqtina", "kind": "store", "owner": "own", "verified": true, "status": "soon", "emoji": "👕", "color": "#3b5b9a", "order": 4 },
+  { "id": "smart-market-tech", "name": "Smart Market-Tech", "desc": "إكسسوارات التكنولوجيا", "parent": "iqtina", "kind": "store", "owner": "own", "verified": true, "status": "soon", "emoji": "🔌", "color": "#2a7f8f", "order": 5 },
+  { "id": "brilliant-book-shop", "name": "Brilliant Book-Shop", "desc": "بيع الكتب. اطلب الكتاب الذي تريده ونوفره لك.", "parent": "iqtina", "kind": "store", "owner": "own", "verified": true, "status": "order", "emoji": "📚", "color": "#6b4a2b", "order": 6 },
+  { "id": "treatment-heal-home", "name": "Treatment Heal-Home", "desc": "الأعشاب والمنتجات الصحية", "parent": "iqtina", "kind": "store", "owner": "own", "verified": true, "status": "soon", "emoji": "🌿", "color": "#4d8a3a", "order": 7 },
+  { "id": "delicious-fast-food", "name": "Delicious Fast-Food", "desc": "المأكولات السريعة والسندوتشات", "parent": "iqtina", "kind": "store", "owner": "own", "verified": true, "status": "soon", "emoji": "🥪", "color": "#c26a1b", "order": 8 }
+ ]
+}

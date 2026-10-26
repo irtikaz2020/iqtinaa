@@ -1,0 +1,167 @@
+{
+ "version": 1,
+ "zones": [
+  {
+   "id": "z01",
+   "name": "القاهرة",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z02",
+   "name": "الجيزة",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z03",
+   "name": "الإسكندرية",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z04",
+   "name": "القليوبية",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z05",
+   "name": "الشرقية",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z06",
+   "name": "الدقهلية",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z07",
+   "name": "البحيرة",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z08",
+   "name": "المنوفية",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z09",
+   "name": "الغربية",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z10",
+   "name": "كفر الشيخ",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z11",
+   "name": "دمياط",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z12",
+   "name": "بورسعيد",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z13",
+   "name": "الإسماعيلية",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z14",
+   "name": "السويس",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z15",
+   "name": "الفيوم",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z16",
+   "name": "بني سويف",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z17",
+   "name": "المنيا",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z18",
+   "name": "أسيوط",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z19",
+   "name": "سوهاج",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z20",
+   "name": "قنا",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z21",
+   "name": "الأقصر",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z22",
+   "name": "أسوان",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z23",
+   "name": "البحر الأحمر",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z24",
+   "name": "الوادي الجديد",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z25",
+   "name": "مطروح",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z26",
+   "name": "شمال سيناء",
+   "price": null,
+   "days": ""
+  },
+  {
+   "id": "z27",
+   "name": "جنوب سيناء",
+   "price": null,
+   "days": ""
+  }
+ ]
+}
